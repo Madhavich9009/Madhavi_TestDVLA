@@ -1,0 +1,6 @@
+stepDefinitions\newDVLATestfeature.class
+com\test\testDVLAProject\service\FileServiceTest.class
+env\TestRunner.class
+pageObjects\StartNow_Page.class
+pageObjects\ConfirmVehicle_Page.class
+pageObjects\ViewVehicle_Page.class

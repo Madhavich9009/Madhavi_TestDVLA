@@ -1,0 +1,900 @@
+2019-04-23 12:50:06 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 12:50:06 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 12:50:06 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 12:50:06 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 12:50:06 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 12:50:06 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 12:50:06 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 12:50:07 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 12:50:07 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 12:50:08 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 12:50:14 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 12:50:16 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 12:50:16 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 12:50:17 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 12:50:18 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 12:53:18 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 12:53:19 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 12:53:19 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 12:53:19 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 12:53:19 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 12:53:19 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 12:53:21 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 12:53:25 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 12:53:27 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 12:53:27 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 12:53:28 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 12:53:28 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:00:47 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:00:47 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:00:47 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:00:47 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:00:48 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:00:48 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:00:49 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:00:52 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:00:53 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:00:53 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:00:54 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:00:55 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:04:21 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:04:21 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:04:21 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:04:21 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:04:21 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:04:21 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:04:23 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:04:29 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:04:30 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:04:30 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:04:31 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:04:32 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:12:16 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:12:16 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:12:16 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:12:16 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:12:16 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:12:16 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:12:16 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:12:17 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:12:17 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:12:18 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:12:20 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:12:21 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:12:21 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:12:22 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:12:23 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:13:40 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:13:40 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:13:40 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:13:40 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:13:40 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:13:40 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:13:43 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:13:44 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:13:45 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:13:45 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:13:46 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:13:46 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:14:54 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:14:54 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:14:54 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:14:54 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:14:54 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:14:54 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:14:56 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:15:08 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:15:09 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:15:11 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:15:12 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:15:15 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:31:21 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:31:21 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:31:21 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:31:21 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:31:21 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:31:22 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:31:25 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:31:27 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:31:29 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:31:29 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:31:30 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:31:30 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:39:06 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:39:06 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:39:06 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:39:06 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:39:06 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:39:06 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:39:07 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:39:07 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:39:09 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:39:10 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:39:11 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:39:11 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:39:12 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:39:13 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:40:18 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:40:18 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:40:18 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:40:18 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:40:19 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:40:19 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:40:21 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:40:23 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:40:24 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:40:24 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:40:25 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:40:25 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 13:52:34 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 13:52:35 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 13:52:35 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 13:52:35 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 13:52:35 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 13:52:35 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 13:52:37 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 13:52:42 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 13:52:43 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 13:52:43 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 13:52:44 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 13:52:45 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 14:47:11 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 14:47:12 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 14:47:12 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 14:47:12 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 14:47:12 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 14:47:12 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 14:47:14 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 14:47:14 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 14:47:16 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 14:47:16 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 14:47:17 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 14:47:17 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 14:50:17 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 14:50:17 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 14:50:17 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 14:50:17 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 14:50:17 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 14:50:17 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 14:50:20 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 14:50:24 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 14:50:25 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 14:54:55 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 14:54:55 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 14:54:55 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 14:54:55 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 14:54:55 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 14:54:55 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 14:54:57 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 14:55:01 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 14:55:02 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 14:55:17 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 14:55:52 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 14:55:52 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 14:55:52 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 14:55:52 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 14:55:52 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 14:55:52 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 14:55:55 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 14:55:56 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 14:55:58 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:00:19 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:00:19 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:00:19 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:00:19 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:00:19 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:00:20 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:00:23 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:00:24 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:00:25 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:00:25 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:00:26 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:00:27 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:00:28 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:00:28 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:00:29 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:00:29 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:00:31 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:00:31 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:00:31 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:00:32 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:07:52 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:07:53 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:07:53 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:07:53 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:07:53 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:07:53 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:07:55 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:07:56 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:07:58 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:07:58 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:07:59 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:07:59 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:08:00 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:08:00 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:08:01 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:08:01 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:08:03 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:08:03 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:08:04 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:08:04 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:08:07 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:09:39 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:09:39 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:09:39 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:09:39 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:09:39 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:09:39 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:09:42 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:09:47 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:09:49 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:09:49 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:09:50 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:09:50 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:09:51 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:09:52 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:09:53 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:09:54 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:09:55 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:09:55 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:09:56 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:09:57 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:10:00 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:14:43 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:14:43 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:14:43 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:14:43 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:14:43 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:14:43 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:14:46 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:14:50 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:14:51 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:14:51 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:14:52 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:14:52 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:14:54 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:14:54 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:14:54 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:14:57 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:14:58 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:14:58 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:14:59 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:15:00 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:35:11 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:35:11 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:35:11 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:35:11 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:35:11 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:35:11 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:35:14 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:35:17 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:35:19 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:35:19 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:35:20 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:35:20 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:35:21 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:35:22 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:35:23 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:35:24 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:35:25 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:35:25 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:35:26 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:35:26 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:41:12 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:41:12 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:41:12 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:41:12 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:41:12 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:41:13 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:41:13 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:41:13 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:41:13 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:41:13 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 15:41:13 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:41:14 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:41:19 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:41:20 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:41:20 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:41:21 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:41:21 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:41:23 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:41:23 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:41:24 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:41:25 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:41:26 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:41:29 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:41:30 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:41:33 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:48:07 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 15:48:07 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 15:48:07 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 15:48:07 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 15:48:07 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 15:48:08 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 15:48:09 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 15:48:10 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 15:48:12 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:48:12 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:48:13 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:48:13 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:48:15 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:48:15 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:48:16 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:48:16 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 15:48:17 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 15:48:17 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 15:48:18 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 15:48:18 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:13:10 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 16:13:11 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:13:11 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:13:11 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:13:11 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:13:11 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 16:13:14 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 16:13:19 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 16:13:21 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:13:21 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:13:22 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:13:22 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:13:23 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:13:26 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:13:27 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:13:27 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:13:29 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:13:29 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:13:29 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:13:30 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:14:22 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 16:14:23 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:14:23 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:14:23 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:14:23 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:14:23 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 16:14:25 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 16:14:28 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 16:14:30 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:14:30 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:14:30 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:14:31 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:14:32 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:14:32 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:14:33 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:14:35 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:14:36 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:14:36 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:14:37 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:14:37 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:15:56 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:15:56 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:15:56 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:15:56 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:16:00 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 16:16:00 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:16:00 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:16:00 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:16:00 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:16:00 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 16:16:04 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 16:16:04 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 16:16:05 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:16:05 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:16:06 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:16:06 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:16:08 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:16:08 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:16:08 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:16:09 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:16:10 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:16:10 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:16:11 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:16:11 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:31:22 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:31:22 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:31:22 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:31:23 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:31:30 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 16:31:30 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:31:30 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:31:30 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:31:30 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:31:30 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 16:31:35 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 16:31:41 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 16:31:43 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:31:43 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:31:44 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:31:45 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:31:46 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:31:48 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:31:49 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:31:50 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:31:51 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:31:51 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:31:52 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:31:54 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:32:43 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 16:32:43 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:32:43 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:32:43 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:32:43 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:32:43 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:32:43 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:32:43 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:32:44 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:32:44 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 16:32:46 INFO  newDVLATestfeature:86 - startNow button click in first page
+2019-04-23 16:32:49 INFO  newDVLATestfeature:97 - in view page
+2019-04-23 16:32:51 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:32:51 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:32:52 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:32:52 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:32:53 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:32:54 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:32:55 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:32:56 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:32:57 INFO  newDVLATestfeature:150 - in view page
+2019-04-23 16:32:57 INFO  newDVLATestfeature:126 - in confirm page
+2019-04-23 16:32:58 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2019-04-23 16:32:58 INFO  newDVLATestfeature:139 - in view page again
+2019-04-23 16:42:26 INFO  newDVLATestfeature:59 - browser starting
+2019-04-23 16:42:26 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:42:26 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:42:26 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:42:26 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:42:26 INFO  newDVLATestfeature:76 - File has been read
+2019-04-23 16:42:30 INFO  newDVLATestfeature:87 - startNow button click in first page
+2019-04-23 16:42:34 INFO  newDVLATestfeature:98 - in view page
+2019-04-23 16:42:35 INFO  newDVLATestfeature:151 - in view page
+2019-04-23 16:42:35 INFO  newDVLATestfeature:127 - in confirm page
+2019-04-23 16:42:36 INFO  newDVLATestfeature:131 - output list created to put into hashmap
+2019-04-23 16:42:37 INFO  newDVLATestfeature:140 - in view page again
+2019-04-23 16:42:38 INFO  newDVLATestfeature:151 - in view page
+2019-04-23 16:42:40 INFO  newDVLATestfeature:127 - in confirm page
+2019-04-23 16:42:41 INFO  newDVLATestfeature:131 - output list created to put into hashmap
+2019-04-23 16:42:44 INFO  newDVLATestfeature:140 - in view page again
+2019-04-23 16:42:45 INFO  newDVLATestfeature:151 - in view page
+2019-04-23 16:42:46 INFO  newDVLATestfeature:127 - in confirm page
+2019-04-23 16:42:47 INFO  newDVLATestfeature:131 - output list created to put into hashmap
+2019-04-23 16:42:47 INFO  newDVLATestfeature:140 - in view page again
+2019-04-23 16:44:00 INFO  newDVLATestfeature:60 - browser starting
+2019-04-23 16:44:00 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:44:00 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:44:00 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:44:00 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:44:00 INFO  newDVLATestfeature:77 - File has been read
+2019-04-23 16:44:01 INFO  newDVLATestfeature:88 - startNow button click in first page
+2019-04-23 16:44:07 INFO  newDVLATestfeature:99 - in view page
+2019-04-23 16:44:08 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 16:44:08 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 16:44:09 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 16:44:10 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 16:44:11 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 16:44:13 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 16:44:14 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 16:44:15 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 16:44:17 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 16:44:17 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 16:44:18 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 16:44:18 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 16:45:05 INFO  newDVLATestfeature:60 - browser starting
+2019-04-23 16:45:05 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 16:45:05 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 16:45:05 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 16:45:05 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 16:45:05 INFO  newDVLATestfeature:77 - File has been read
+2019-04-23 16:45:09 INFO  newDVLATestfeature:88 - startNow button click in first page
+2019-04-23 16:45:10 INFO  newDVLATestfeature:99 - in view page
+2019-04-23 16:45:12 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 16:45:12 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 16:45:13 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 16:45:13 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 16:45:14 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 16:45:14 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 16:45:15 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 16:45:16 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 16:45:17 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 16:45:17 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 16:45:18 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 16:45:18 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 17:07:51 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 17:07:51 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 17:07:51 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 17:07:52 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 17:07:56 INFO  newDVLATestfeature:60 - browser starting
+2019-04-23 17:07:56 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 17:07:56 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 17:07:56 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 17:07:56 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 17:07:56 INFO  newDVLATestfeature:77 - File has been read
+2019-04-23 17:07:59 INFO  newDVLATestfeature:88 - startNow button click in first page
+2019-04-23 17:08:04 INFO  newDVLATestfeature:99 - in view page
+2019-04-23 17:08:06 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 17:08:06 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 17:08:07 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 17:08:10 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 17:08:11 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 17:08:12 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 17:08:13 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 17:08:13 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 17:08:15 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 17:08:15 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 17:08:16 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 17:08:18 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 17:08:51 INFO  newDVLATestfeature:60 - browser starting
+2019-04-23 17:08:51 INFO  FileService:58 - ----------------------------------------------------------------
+2019-04-23 17:08:51 INFO  FileService:59 - The following mime type files exist in Test Data Directory
+2019-04-23 17:08:51 INFO  FileService:60 - ----------------------------------------------------------------
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:text/html
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/json
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:text/csv
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:image/gif
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:image/jpeg
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:text/x-log
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/pdf
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:image/png
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/rtf
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:text/plain
+2019-04-23 17:08:51 INFO  FileService:68 - -> Mime type:application/vnd.ms-word2006ml
+2019-04-23 17:08:51 INFO  newDVLATestfeature:77 - File has been read
+2019-04-23 17:08:54 INFO  newDVLATestfeature:88 - startNow button click in first page
+2019-04-23 17:09:01 INFO  newDVLATestfeature:99 - in view page
+2019-04-23 17:09:03 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 17:09:03 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 17:09:04 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 17:09:05 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 17:09:06 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 17:09:09 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 17:09:10 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 17:09:12 INFO  newDVLATestfeature:141 - in view page again
+2019-04-23 17:09:14 INFO  newDVLATestfeature:152 - in view page
+2019-04-23 17:09:15 INFO  newDVLATestfeature:128 - in confirm page
+2019-04-23 17:09:17 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2019-04-23 17:09:20 INFO  newDVLATestfeature:141 - in view page again
